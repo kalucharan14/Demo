@@ -1,0 +1,41 @@
+.bg-dark,.btn-dark
+{
+	background:linear-gradient(45deg,darkslategrey,black);
+}
+.bg-primary,.btn-primary 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(113,131,236));
+}
+.bg-danger,.btn-danger
+{
+	background:linear-gradient(45deg,darkslategrey,red);
+}
+.bg-success,.btn-success 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(25,160,52));
+}
+.bg-warning,.btn-warning
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(235,174,27));
+}
+.dropdown-item:hover
+{
+	background:linear-gradient(45deg,darkslategrey,black);
+	color:white!important;
+}
+.bg-teal 
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(7,108,89));
+}
+.bg-secondary,.btn-secondary
+{
+	background:linear-gradient(45deg,darkslategrey,rgb(218,69,230));
+}
+.p-img{
+	border: 2px solid black;
+	height: 270px!important;
+    width: 100%!important;
+    border-radius: 20px ;
+    padding: 5px;
+    box-shadow: 0 0 10px black;
+}
